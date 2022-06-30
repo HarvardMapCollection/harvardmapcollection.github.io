@@ -10,7 +10,7 @@ layout: default
 
 ## Services
 
-[Services](https://library.harvard.edu/libraries/harvard-map-collection) - Whether its one-on-one project support, help finding data, or image scans of our paper collection, find how to access services. 
+[Services](https://library.harvard.edu/libraries/harvard-map-collection) - Whether its one-on-one project support, help finding data, or image scans of our paper collection, find access to our services.
 
 ## Projects
 

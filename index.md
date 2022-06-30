@@ -12,7 +12,7 @@ layout: default
 
 Follow projects we have been working on or supporting recently.
 
-[06-30-2022 - Mapping Cultural Difference by Ricky Sanchez](https://harvardmapcollection.github.io/mapping-cultural-difference/) - Through her 2022 May Crane fellowship, Ricky Sanchez maps the history of Latinx (or Latine) theaters in New York City. 
+[06/30/2022 - Mapping Cultural Difference by Ricky Sanchez](https://harvardmapcollection.github.io/mapping-cultural-difference/) - Through her 2022 May Crane fellowship, Ricky Sanchez maps the history of Latinx (or Latine) theaters in New York City. 
 
 
 ## Services
@@ -20,3 +20,5 @@ Follow projects we have been working on or supporting recently.
 [Services](https://library.harvard.edu/libraries/harvard-map-collection) - Whether its one-on-one project support, help finding data, or image scans of our paper collection, find how to access services. 
 
 ## Contact
+
+

@@ -10,7 +10,7 @@ layout: default
 
 ## Course materials
 
-We work with classes and make the [class visit materials](https://harvardmapcollection.github.io/classes/) available. 
+We work with classes and make the [class visit materials](https://harvardmapcollection.github.io/classes/) available online. 
 
 ## Services
 

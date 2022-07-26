@@ -8,9 +8,6 @@ layout: default
 
 [Tutorials](https://harvardmapcollection.github.io/tutorials/) - We maintain tutorials and guides geared towards getting you set up for map making. 
 
-## Course materials
-
-We work with classes and make the [class visit materials](https://harvardmapcollection.github.io/classes/) available online. 
 
 ## Services
 

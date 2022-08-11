@@ -1,5 +1,1 @@
-theme: jekyll-theme-minimal
-title: Harvard Cartography Lab
-logo: logo.svg
-description: The Harvard Cartography Lab is a digital gathering place for GIS map making at the Harvard Map Collection.
-google_analytics: G-H7716TN9YC
+theme: jekyll-theme-cayman

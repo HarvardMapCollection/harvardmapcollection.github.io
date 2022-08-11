@@ -41,15 +41,76 @@
 
 }
 
-
-.wrapper{
-    width: 1060px;
+.project-name{
+  color: #202020;
 }
 
-section{
-    width:630px ;
+.project-tagline{
+  color: #202020;
 }
 
+.page-header{
+  height:200px;
+  background: url('https://ids.lib.harvard.edu/ids/iiif/45981159//4633,3115,991,283/800,/0/default.jpg');
+
+}
+
+.main-content{
+  color:  #414141;
+  font-family: 'loraregular';
+  line-height: 32px;
+  font-size: 19px;
+}
+
+.main-content h1{
+  font-family: 'truenobold';
+  color: #1E1E1E;
+  line-height: 74px;
+  font-size: 60px;
+  margin:0;
+  margin-bottom: 1.5rem;
+}
+
+.main-content h2{
+  font-family: 'truenobold';
+  color: #1E1E1E;
+  font-size: 32px;
+  text-transform: uppercase;
+  line-height: 42px;
+  letter-spacing: 2.4px;
+}
+
+.main-content h3{
+  color: #1E1E1E;
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 30px;
+  letter-spacing: 1.5px;
+  font-family: 'truenobold';
+}
+
+.main-content h4{
+  font-family: 'truenobold';
+  color: #1E1E1E;
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 30px;
+  letter-spacing: 2.14px;
+}
+
+.main-content h5{
+  color: #1E1E1E;
+  font-family: 'truenosemibold';
+  font-size: 19px;
+  line-height: 29px;
+}
+
+.main-content h6{
+  color: #1E1E1E;
+  font-family: 'truenosemibold';
+  font-size: 16px;
+  line-height: 28px;
+}
 
 html { height: 100%; }
 
@@ -74,7 +135,6 @@ h1{
     font-size: 60px;
     margin:0;
     margin-bottom: 1.5rem;
-    margin-top: 1.5rem;
 }
 
 h2{
@@ -156,12 +216,5 @@ a:hover {
     line-height: 29px;
   }
 
-  .wrapper{
-    all: initial;
-  }
-
-  section{
-    all: initial;
-  }
 
 }

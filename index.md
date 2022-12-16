@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_to: "https://gis-harvard.pubpub.org/"
 ---
 
 # Harvard Cartography Lab
